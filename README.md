@@ -23,4 +23,4 @@ Skype: splayn
 
 
 
-[ylogo]: https://github.com/yuriy-logosha/myCV/blob/master/public/images/ylogosha.jpg?raw=true "Iurii Logosha"
+[ylogo]: ylogosha.jpg "Iurii Logosha"
