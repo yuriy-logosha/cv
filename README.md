@@ -23,4 +23,4 @@ Skype: splayn
 
 
 
-[ylogo]: AB5DDE32-044F-40AB-B1A9-1DB4E064446A.jpeg "Iurii Logosha"
+[ylogo]: 34585345-B29A-42C9-B1DA-92A8236B2E64_1_201_a.jpeg "Iurii Logosha"
