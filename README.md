@@ -4,7 +4,7 @@
 
 ---
 
-Team Lead/Technical Lead at Accenture Inc, Latvijas Filiale, Riga 
+Software Engineer, Java Lead Developer at Kuehne+Nagel
    
 Location: Riga, Latvia
    
